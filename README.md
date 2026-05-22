@@ -11,7 +11,7 @@ The player manages heroes defending a kingdom from enemies.
 
 How to Compile
 Open terminal in the project folder and run:
-javac *.java
+javac .java
 
 How to Run
 java Main
